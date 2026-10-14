@@ -1,6 +1,6 @@
 {
   "name": "equipo-de-departamentos",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Convierte un proyecto grande en un equipo de departamentos (subagentes) y recorta el gasto fijo de tokens: audita el proyecto, propone departamentos y un perfil de plugins, y los crea con tu aprobación.",
   "author": { "name": "Astaroth" },
   "license": "MIT",

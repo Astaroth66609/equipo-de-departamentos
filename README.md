@@ -19,7 +19,7 @@ Dile a Claude: «optimiza este proyecto», «organiza mi proyecto» o «crea dep
 
 ## Instalar
 - Probar sin instalar: `claude --plugin-dir <carpeta-del-plugin>`
-- Permanente: `/plugin install equipo-de-departamentos --marketplace Astaroth66609/equipo-de-departamentos`. Se actualiza con `/plugin`.
+- Permanente (dos comandos): `/plugin marketplace add Astaroth66609/equipo-de-departamentos` y luego `/plugin install equipo-de-departamentos@equipo-de-departamentos`. Se actualiza con `/plugin`.
 
 ## Deshacer
 Borra los archivos creados en `.claude/agents/` y `.claude/settings.local.json`, y desinstala el plugin.
