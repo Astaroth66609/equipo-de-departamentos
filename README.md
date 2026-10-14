@@ -4,8 +4,8 @@ Plugin de Claude Code para proyectos grandes. Incluye la skill **`optimizar-proy
 
 1. **Lee** tu proyecto (solo lectura) para entender qué es y cómo está organizado.
 2. **Te entrevista** (una sola ronda, con una recomendación por defecto en cada pregunta): qué te cuesta, cómo prefieres organizarte, qué es intocable, idioma.
-3. **Te propone** entre 2 y 6 **departamentos** (subagentes) hechos a la medida, y un **perfil ligero** de plugins si lo quieres. No trae una organización fija: lo que propone nace de tu proyecto y de tus respuestas.
-4. **Te pide una aprobación** y solo entonces crea los archivos en `.claude/agents/` (y `.claude/settings.local.json` si lo aceptaste).
+3. **Si empiezas de cero**, primero te sugiere cómo ordenar tu proyecto. **Te propone** entre 2 y 6 **departamentos** (subagentes) hechos a la medida, y un **perfil ligero** de plugins si lo quieres. No trae una organización fija: lo que propone nace de tu proyecto y de tus respuestas.
+4. **Te pide una aprobación** (con tarjetitas de un clic en la app de escritorio, o un «sí» en el chat) y solo entonces crea los archivos en `.claude/agents/` (y `.claude/settings.local.json` si lo aceptaste).
 
 Además trae `reglas-ahorro.md`: reglas cortas de ahorro de tokens que puedes pegar, si quieres, en tu `CLAUDE.md`.
 
