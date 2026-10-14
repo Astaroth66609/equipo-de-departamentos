@@ -67,6 +67,9 @@ Si rechaza una parte, haz el resto. Si pide cambios, ajusta y vuelve a mostrar.
 - Prueba **un** departamento con una pregunta pequeña y de solo lectura.
 - Cierra en **5 líneas o menos**: qué se creó, cómo usarlo (una frase de ejemplo), cómo deshacerlo (borrar el archivo / la línea) y qué **no** pudiste verificar. Nada de tablas de resultados ni comparaciones con otros proyectos.
 
+## Paso 7: Mejora continua (opcional, solo si la persona quiere)
+Termina con **una** pregunta: «¿Hubo algo que no te sirvió o que faltó?». Si responde algo concreto y es un defecto o una carencia de esta skill, ofrécele abrir un *issue* en el repositorio del plugin (`Astaroth66609/equipo-de-departamentos`) con un texto breve que **tú redactas sin datos de su proyecto** (nada de nombres de archivos, rutas, claves ni código suyo) y que ella revisa antes. Solo lo abres si ella dice «sí»; si no tienes `gh` o no quiere, no insistas. Nunca envíes nada por tu cuenta.
+
 ## Reglas de ahorro que recomiendas (sin imponerlas)
 1. Compactar **al terminar** una tarea, no a la mitad, diciendo qué conservar.
 2. Una conversación por tema; los temas nuevos van en sesión nueva.
