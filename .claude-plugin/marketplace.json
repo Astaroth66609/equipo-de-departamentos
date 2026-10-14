@@ -1,0 +1,12 @@
+{
+  "name": "equipo-de-departamentos",
+  "description": "Plugin para organizar proyectos grandes en departamentos (subagentes) y ahorrar tokens en Claude Code.",
+  "owner": { "name": "Astaroth" },
+  "plugins": [
+    {
+      "name": "equipo-de-departamentos",
+      "source": "./",
+      "description": "Convierte un proyecto grande en un equipo de departamentos (subagentes) y recorta el gasto fijo de tokens, con entrevista previa y tu aprobación."
+    }
+  ]
+}
